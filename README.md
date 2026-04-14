@@ -67,6 +67,7 @@ Connection established.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Backend & Infrastructure
 
@@ -114,7 +115,7 @@ You found another one.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=realverax\&color=1)
+![Profile Views](https://komarev.com/ghpvc/?username=realverax\&color=red)
 
 <!--
 Final note:
