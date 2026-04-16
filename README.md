@@ -2,17 +2,9 @@
 
 > Engineering fear through technology.
 
-<!--
-If you're reading this, you're already looking deeper than most.
--->
-
 ---
 
 # 💫 About Me
-
-```diff
-+ I build systems that scale.
-```
 
 🔭 Working on
 
@@ -23,40 +15,6 @@ If you're reading this, you're already looking deeper than most.
 
 * Backend & system architecture projects
 * Performance-critical applications
-
-🌱 Currently learning
-
-* Distributed systems & microservices
-* Low-level networking & async architectures
-* Infrastructure & scalability
-
-💬 Ask me about
-
-* Java & backend engineering
-* Minecraft (Paper / Velocity / Packet-level)
-* System design & performance
-
-⚡ Philosophy
-
-* "Optimize first. Scale second. Expand last."
-
-<!--
-There is always a deeper layer.
--->
-
----
-
-# 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/veraxog)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/louis.rcw)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok\&logoColor=white)](https://tiktok.com/@.lou1s_s)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/NichtVerax)
-
-<!--
-Connection established.
--->
 
 ---
 
@@ -88,41 +46,14 @@ Connection established.
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=Prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge\&logo=grafana\&logoColor=white)
 
-<!--
-System check:
-[OK] Performance
-[OK] Scalability
-[OK] Architecture
-[?] Reality
--->
-
 ---
 
-# 📊 GitHub Stats
+# 🌐 Socials
 
-![](https://github-readme-stats.shion.dev/api?username=realverax\&theme=discord_old_blurple\&hide_border=false)
-![](https://streak-stats.demolab.com/?user=realverax\&theme=discord_old_blurple\&hide_border=false)
-
-<!--
-You found another one.
--->
-
----
-
-# 💰 Support Me
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://buymeacoffee.com/dev_verax)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/veraxog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/NichtVerax)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realverax\&color=red)
-
-<!--
-Final note:
-
-Most people read code.
-Few understand systems.
-Even fewer question them.
-
-Which one are you?
--->
